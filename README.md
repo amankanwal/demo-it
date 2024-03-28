@@ -1,8 +1,8 @@
 # demo-it
 This is my demo repository !!
 #include<iostream>
-using namespace std;
-int main(){
 
+int main(){
+std::cout<<"Hii GitHub " ;
   return 0;
 }
